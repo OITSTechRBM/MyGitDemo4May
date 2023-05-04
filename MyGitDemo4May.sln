@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MyGitDemo4May", "MyGitDemo4May\MyGitDemo4May.fsproj", "{4A8B576D-965E-42DE-AE73-6E2DC2B33C45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDemoProjecy", "APIDemoProjecy\APIDemoProjecy.csproj", "{BA78E987-A355-4A6A-8095-208E6B417344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4A8B576D-965E-42DE-AE73-6E2DC2B33C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A8B576D-965E-42DE-AE73-6E2DC2B33C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A8B576D-965E-42DE-AE73-6E2DC2B33C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA78E987-A355-4A6A-8095-208E6B417344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA78E987-A355-4A6A-8095-208E6B417344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA78E987-A355-4A6A-8095-208E6B417344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA78E987-A355-4A6A-8095-208E6B417344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
